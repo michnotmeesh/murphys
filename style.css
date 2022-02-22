@@ -1,0 +1,27 @@
+.ui.borderless.topmenu.container.menu {
+  border: none;
+  box-shadow: none;
+}
+
+.murphys-background {
+  background: url("murphys-front.jpeg") no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.ui.grid.container {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.eight.wide.column {
+  width: 100%;
+  height: 100%;
+}
+
+.text {
+  color: white;
+  text-align: justify;
+  font-weight: bold;
+}
